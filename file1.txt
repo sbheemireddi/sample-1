@@ -1,6 +1,5 @@
 This is deveops lab.
 Lab ius on Tuesday.
-[D[A[A[C[C[B[C[C[C[[B[A[[[Cs[C[[B[D[D[D[D[D[D[D[D[DDeveops is taught by Ratna Prakash Sir.
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[2[C[C[C[C
+Deveops is taught by Ratna Prakash Sir.
 In devepos lab we need Knowledge of git Commands.
 We will use github account in deveops lab.
