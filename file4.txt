@@ -1,0 +1,2 @@
+Automate testing throughtout the software delivery process.
+Process is faster in DevOps.
