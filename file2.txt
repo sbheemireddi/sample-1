@@ -1,2 +1,2 @@
-In deveops lab we need knowledge of git commands.
+In deveops lab we need knowledge of git commands.
 In deveops we use github account.
